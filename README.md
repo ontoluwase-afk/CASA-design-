@@ -8,7 +8,6 @@ As a CS sophomore who recently transferred to UH this Fall 2026, I launched this
 
 My primary goal is to synthesize user-focused design thinking with front-end engineering principles to build a smooth, high accessibility interface prototype.  
 
----
 
 ## Roadmap and Core Goals
 * UX Auditing and Research: Map out existing layout flaws and launch an experience survey targeting feedback from 50+ students.
@@ -16,7 +15,6 @@ My primary goal is to synthesize user-focused design thinking with front-end eng
 * Frontend Prototype: Develop an interactive web interface using HTML, CSS, and foundational JavaScript to demonstrate functional, code-backed layout updates. 
 * Institutional Pitch: Package the final interactive mockup and user research findings into a formal product pitch for the CASA IT department to propose campus-wide adaptation. 
 
----
 
 ## Tech Stack and Tooling
 * Design and Workflow Mapping:  Figma(Design and FigJam)
